@@ -1,0 +1,13 @@
+functional requirement:
+1.login page: using validate login employee can be access all thye information about customer.
+2.admin login:validate admin can access the webside
+3.search:empolyee can serach customer on basis of country
+4. add customer:only admin has permission to add customer
+5.remore customer:admin can be remove a customer
+6.update: when customer change there information then admin can update new information
+
+Non-functional requirement:
+validation:only validate employee or admin can access the website
+scaleble webisite: constoso is multinational comapnay has therir 12 offices all over world.data is very large so data manipulation is important
+security:website secuirty is very important because data is very confidantional so hacker never be hack the website.
+  

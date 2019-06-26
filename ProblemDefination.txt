@@ -1,0 +1,13 @@
+problem defination:
+1.contose is a multinational compnay has their 12 office all over world so the website must be scalable, secure.
+2.first get the all inforamtion about customer  which are all our world.
+3.arrange the information in shorting order on basis of country or company so we can easily find out
+4.customer name,email,companyname,phoneno,accountno are mandatory
+5.create microservice using with express to show the list of entity.
+6.after creating website buid the webisite and host this information system in public cloud google platform.
+7.using public google clould platform any employee fromm all over world can access the information of customer
+8.website must be validate so validate employee, admin can access webisite no other one
+9.give permission to admin so admin can add ,remove,update the information of customer
+10.webisite host on google clould so any office accsess the website 
+
+
